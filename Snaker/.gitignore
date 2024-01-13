@@ -1,0 +1,10 @@
+# Binaries
+/obj/
+*.o
+*.a
+jogo
+jogo.exe
+
+# VS Code files
+.vscode/*.log
+.vscode/settings.json

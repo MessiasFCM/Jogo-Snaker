@@ -1,0 +1,5 @@
+Samuka,120,
+Messias,80,
+Lucas,35,
+Pedro,30,
+Deco,20,
